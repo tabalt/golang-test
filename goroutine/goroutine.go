@@ -77,7 +77,3 @@ loop:
 		}
 	}
 }
-
-func goroutine_context() {
-
-}
